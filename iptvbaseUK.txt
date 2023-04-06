@@ -1,0 +1,554 @@
+#EXTINF:-1,US: Smithsonian Channel
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPbwdKbxowkrDVykHy9ncq4/ts
+#EXTINF:-1,AR: BeIN Sports English 1 FHD (H.265)
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNvnshkhtwZtOG7oDKbi5wg/ts
+#EXTINF:-1,AR: BeIN Sports English 1 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGUErQt6dDCGeRmsn9TuFkk/ts
+#EXTINF:-1,AR: BeIN Sports English 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFEyWoFIFrv5EiUVphTj38A/ts
+#EXTINF:-1,AR: BeIN Sports English 1 HD*
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLpfj8Y1Qrz6jgyMG7hpHf4/ts
+#EXTINF:-1,AR: BeIN Sports English 2 FHD (H.265)
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNGHiGqtsQH_fXOH_H9BNDw/ts
+#EXTINF:-1,AR: BeIN Sports English 2 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJ5xQ9b-TfzZd4zpCXqOdpM/ts
+#EXTINF:-1,AR: BeIN Sports English 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOGgC7AxkA8EhbhWxBGxHuI/ts
+#EXTINF:-1,AR: BeIN Sports English 2 HD*
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAkYnfzrwpJsiMqdxOigvDg/ts
+#EXTINF:-1,AR: BeIN Sports English 3 FHD (H.265)
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lL4xX_F5rA6d3yyzJPzKBrk/ts
+#EXTINF:-1,AR: BeIN Sports English 3 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lC_2nEATkE3-nfEFZ_k27Rs/ts
+#EXTINF:-1,AR: BeIN Sports English 3 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHPTK1OgyVCq7KjR_iSMWX8/ts
+#EXTINF:-1,AR: BeIN Sports English 3 HD*
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA3jKmPh749kz5_HQQFsVNI/ts
+#EXTINF:-1,======== SKY UK ========
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDYRpx-67ddZN4B2vKrBM8A/ts
+#EXTINF:-1,|UK| SKY SPORTS NEWS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lO39KiViqk5f_qoHqdEcfLk/ts
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA8LfHptZHEFT9n-C2FPguo/ts
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPOrR5ceJs-4rh0KQfoMzwI/ts
+#EXTINF:-1,|UK| SKY SPORTS FOOTBALL FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA8wr8UzZnCF9OctKa7LPC4/ts
+#EXTINF:-1,|UK| SKY SPORTS CRICKET FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOfoKLEqpqBYq0Plpg1Mnjs/ts
+#EXTINF:-1,|UK| SKY SPORTS GOLF FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lElXRECgNJibhWsgZLRYabY/ts
+#EXTINF:-1,|UK| SKY SPORTS F1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI21Et54KW_gsKs3jKOKmVc/ts
+#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDOkeImlyoBhpj_A_WTkZSU/ts
+#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lP9PNyoM7q8WLMIeum00Uc8/ts
+#EXTINF:-1,|UK| SKY SPORTS MIX HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBlqJBpPayva_12149CFLow/ts
+#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLmHPsL0fKQ1wnFhSIHHSic/ts
+#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNNJM4bs7o6UUDnDOlpJjg4/ts
+#EXTINF:-1,|UK| SKY SPORTS CRICKET
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKTps4694Ms0U6NqSao7hoo/ts
+#EXTINF:-1,|UK| SKY SPORTS GOLF
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIP0dAb2meZUnXewEAY6I_Y/ts
+#EXTINF:-1,|UK| SKY SPORTS ACTION
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lB5_B2lFMkWJjiarEMuAFMg/ts
+#EXTINF:-1,|UK| SKY SPORT MIX
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMJER5pVkVaRI_ZqHmDeWvg/ts
+#EXTINF:-1,|UK| SKY SPORTS BOX OFFICE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lN4oF7EwYnVIwS1Ug8X4K6s/ts
+#EXTINF:-1,|UK| BT SPORTS 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAdg5m7vYjurQ0MuUf7Xd04/ts
+#EXTINF:-1,|UK| BT SPORT 3 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lILJT4JfaAbGEcFcs9RGhmo/ts
+#EXTINF:-1,|UK| BT SPORT 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBtPlBf-qMlbO3CUak7cVUg/ts
+#EXTINF:-1,|UK| BT SPORT 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMeLr3K3eS-SQE4Yc8VK4nk/ts
+#EXTINF:-1,|UK| BT SPORT EXTRA 6
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHijZcvruN9b0RSeHh_yvIo/ts
+#EXTINF:-1,|UK| BT SPORT EXTRA 7
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDjRhnehDN-ZeLTeVBFKUUg/ts
+#EXTINF:-1,|UK| BT SPORT EXTRA 8
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGDvyyM3ocPoTx6viJMiPLc/ts
+#EXTINF:-1,|UK| BT SPORT EXTRA 9
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBT7-Pu_dXlO4iT3nTwnZfk/ts
+#EXTINF:-1,|UK| BT SPORT EXTRA 10
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lN9ZBcikz2zCnfsw6PZeOUg/ts
+#EXTINF:-1,|UK| VIAPLAY SPORTS 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJHpD1iSp6C2mlsGZsgOTes/ts
+#EXTINF:-1,|UK| VIAPLAY SPORTS 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIcPGuyN6iYuRe7geBsaQUg/ts
+#EXTINF:-1,|UK| RANGERS FC TV (Live for Matches)
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFXkzWPv6YRSi-Rw9Gmq5hg/ts
+#EXTINF:-1,|UK| CELTIC FC TV (Live for Matches)
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDNIcXy7-ulcPU2SNg6_jbQ/ts
+#EXTINF:-1,|UK| MUTV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJave14-lnEBjYf1cSxxYJk/ts
+#EXTINF:-1,|UK| LIVERPOOL FC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lM9pDPTVhNcpIZVhVm4foxY/ts
+#EXTINF:-1,|UK| EUROSPORT 1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCWpRU6OMRU-ISk7kJZgHgE/ts
+#EXTINF:-1,|UK| EUROSPORT 2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLXxJHT5v3KxYPlK8-XbWkc/ts
+#EXTINF:-1,|UK| BOX NATION HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPWXEDsdHRLPH5Zmp1yWd3A/ts
+#EXTINF:-1,|UK| RACING UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCbO3ovPIl-HODK_v4saE5I/ts
+#EXTINF:-1,|UK| SKY SPORTS RACING
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLzZNhX5vWUcBhDhQICt2Kg/ts
+#EXTINF:-1,|UK| VIAPLAY XTRA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOzlHs-jgkhZIR2vRu_y2sY/ts
+#EXTINF:-1,|UK| MOTORS TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJnLbrrHMGR_YEssHZFs498/ts
+#EXTINF:-1,|UK| BBC 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMnwfNsqs0mnSW0iM4YGIag/ts
+#EXTINF:-1,|UK| BBC 2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMHLJ6F8CDikVGGUjM2kNWI/ts
+#EXTINF:-1,|UK| BBC 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJj0Th_eeN7hKF_AikCg60c/ts
+#EXTINF:-1,|UK| CBBC HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJHoNvMEpqwsWSc2Ka7lY2c/ts
+#EXTINF:-1,|UK| BBC 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMgzgJz49Li-UpyGzP7cAZo/ts
+#EXTINF:-1,|UK| BBC PARLIAMENT
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKLOMQ2i2B4zM-VAL8R5bZc/ts
+#EXTINF:-1,|UK| BBC ALBA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGNQPlIoJv8kXuHQM15JJAM/ts
+#EXTINF:-1,|UK| CBBC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDovhQbuN2aVELTeX9fP0ag/ts
+#EXTINF:-1,|UK| ITV1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFECibQvSP9z6fMV2dD0zto/ts
+#EXTINF:-1,|UK| ITV +1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOaHcBLj3eyv0wztvoFI7q4/ts
+#EXTINF:-1,|UK| ITV2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLKKCGV1UdzpMWhMn6o7H5s/ts
+#EXTINF:-1,|UK| ITV2 +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDuhr2y9ly9DzndbGaT4ppc/ts
+#EXTINF:-1,|UK| ITV3
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEAlBJ2PDO3h8GLdJ1JLVbQ/ts
+#EXTINF:-1,|UK| ITV3 +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPbb9uOEt3wRO-rWHFxlJkQ/ts
+#EXTINF:-1,|UK| ITV4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLRbDiCvIlGk5iWOq9Td2NM/ts
+#EXTINF:-1,|UK| ITV4 +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOV-B31JeHe2F-jMEjUHeOU/ts
+#EXTINF:-1,|UK| 5ACTION
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAL27tcPRWmQUQ0xNe6OwgY/ts
+#EXTINF:-1,|UK| ITV BE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCT8ZofEZjAO61KD_47q29w/ts
+#EXTINF:-1,|UK| 4Seven
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lP8EgWUo8LWGUT-JTfsJ3cM/ts
+#EXTINF:-1,|UK| MORE 4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA5pnJYJrk8DxQFMW1XJeu4/ts
+#EXTINF:-1,|UK| CHANNEL 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBnpB-0IIz7MrtlBcNIajFQ/ts
+#EXTINF:-1,|UK| CHANNEL 5 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA-z3UgM-pqgr7MXlXRAM2g/ts
+#EXTINF:-1,|UK| CHANNEL 5 +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOVjQ_yebko0TtgkaJpt7Ew/ts
+#EXTINF:-1,|UK| 5 USA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHyjpZWUbEDmfXYqRkfuONk/ts
+#EXTINF:-1,|UK| 5 USA +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAL447VqkYrGtu7AZvyFVJE/ts
+#EXTINF:-1,|UK| SKY ATLANTIC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGfd5IK5iqZyaHf6CcCc_7c/ts
+#EXTINF:-1,|UK| CBS REALITY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDo_RKm2-SQyju991uU-7Ds/ts
+#EXTINF:-1,|UK| SKY ARTS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPZ8HtP_PmBrQTzpCMBmEPA/ts
+#EXTINF:-1,|UK| SKY MAX
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIvi4p_Q2E1Ardme4YKLGTg/ts
+#EXTINF:-1,|UK| SKY REPLAY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIjKgudi43Nd2wbiLAD2PnY/ts
+#EXTINF:-1,|UK| E4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMi0KDEQxEEbfLS54vaZ3LY/ts
+#EXTINF:-1,|UK| E4 +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMv9W8sqv_c4LveONF12gfU/ts
+#EXTINF:-1,|UK| E!
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIzeGGl9WTl_YkmZBqziyk0/ts
+#EXTINF:-1,|UK| SKY WITNESS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLa9TXh0xFtFjKIbRtsz82M/ts
+#EXTINF:-1,|UK| GOLD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAEfSUzkJuh5RozXTZBtrvQ/ts
+#EXTINF:-1,|UK| 5 STAR
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBg224_ctuwAQ50BrwhSGyQ/ts
+#EXTINF:-1,|UK| 5 STAR +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lH-n26dChl_7u6U8C8IEVL8/ts
+#EXTINF:-1,|UK| 5SELECT
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLe9CQnptZWaDNGmDq-n65E/ts
+#EXTINF:-1,|UK| DAVE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lE_WEVT8LDdEXnriPNd9H34/ts
+#EXTINF:-1,|UK| HGTV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLmWQ4yK7aqqz1B0Mx_x1tU/ts
+#EXTINF:-1,|UK| ALIBI HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMVC45jXFrn1sGIBIrLqA5g/ts
+#EXTINF:-1,|UK| LONDON LIVE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLNWGhIPhdpoGIDdcvZJ488/ts
+#EXTINF:-1,|UK| TLC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPAEhhRi7p7IBy-9eBsBvMc/ts
+#EXTINF:-1,|UK| SKY SCI-FI
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDs7Ol9POgFaCXH1YkG2d14/ts
+#EXTINF:-1,|UK| RTE 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJCTk97vOYH6MDSMu8up7VI/ts
+#EXTINF:-1,|UK| RTE 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHsHLOld89KVWPsfdPbeexk/ts
+#EXTINF:-1,|UK| SKY COMEDY HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPDF3SRLqoCrF2KjIL8t_g4/ts
+#EXTINF:-1,|UK| COMEDY CENTRAL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lP98Q_3hscQLFungjypBnPw/ts
+#EXTINF:-1,|UK| COMEDY CENTRAL EXTRA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMYss6NbEYkuIIhoHyk2fxM/ts
+#EXTINF:-1,|UK| VIRGIN TWO
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLRkxJo60PH7Vxx9ascORm0/ts
+#EXTINF:-1,|UK| TG4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOF0xgXuQQ8V0dEOzt7KOOg/ts
+#EXTINF:-1,|UK| UTV IE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCR3uuU4CbsGt-xAWcikS4s/ts
+#EXTINF:-1,|UK| EDEN
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJPlkHk2ae9vXLyqKcGCk4M/ts
+#EXTINF:-1,|UK| VIRGIN ONE HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA19ptBiVpyzrZLRCm4c9e4/ts
+#EXTINF:-1,|UK| YESTERDAY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lH7SJio0VmK5KrdvbWBizFM/ts
+#EXTINF:-1,|UK| W
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGyFoJA2rt33i8UvrrUMOU8/ts
+#EXTINF:-1,|UK| W +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDL8LmTi7X1d6Ru18D0W2Cg/ts
+#EXTINF:-1,|UK| VIRGIN THREE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOHIwfpzcR-OUPfLbQ4xgd0/ts
+#EXTINF:-1,|UK| SKY CRIME
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKZxMc8mouqWyMrdPRBhNUg/ts
+#EXTINF:-1,|UK| LIFETIME
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJVG2SBbt3-m0Dv9eLRTpqc/ts
+#EXTINF:-1,|UK| QUEST
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLksSZR9eLhqWlNrOfbg9bU/ts
+#EXTINF:-1,|UK| PICK TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA6B3vU6B2jpgVWuulAkET4/ts
+#EXTINF:-1,|UK| REALLY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJ8g4e7R_C5M02UXkRe0aYQ/ts
+#EXTINF:-1,|UK| HOME
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDGe70HPdBENv45AIg1qXDc/ts
+#EXTINF:-1,|UK| FOOD NETWORK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHmE8Un20VwXmzXKa8lB5Vg/ts
+#EXTINF:-1,|UK| FOOD NETWORK +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPK4GXmbJyRrBUO2QtWi1zE/ts
+#EXTINF:-1,|UK| HORSE & COUNTRY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLr7OKF_LFos-06_y1vk3-w/ts
+#EXTINF:-1,|UK| S4C
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFCCDsf1KJPZsZ32adiLvCk/ts
+#EXTINF:-1,------- UK Movies -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lL-KL59wg-ovlMN4_0K10tw/ts
+#EXTINF:-1,|UK| SKY CINEMA THRILLER
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFp6FlaJ4oyLYi36hwBriCU/ts
+#EXTINF:-1,|UK| SKY CINEMA SELECT HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMuO7lgJLzozbSgBdBLZaXQ/ts
+#EXTINF:-1,|UK| SKY CINEMA PREMIERE HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPsrA4giutV0jovqrnSXPHI/ts
+#EXTINF:-1,|UK| SKY CINEMA GREATS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lO4QKIC0YZx18UkuRONLDp0/ts
+#EXTINF:-1,|UK| SKY CINEMA FAMILY HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLCyjSEBRsof9Q4NTfR1_xw/ts
+#EXTINF:-1,|UK| SKY CINEMA DRAMA HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lK2AV_ioiKR8_17d9Bd0k9M/ts
+#EXTINF:-1,|UK| SKY CINEMA COMEDY HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lF2HB8XIs7rr-KqAl4DD-qs/ts
+#EXTINF:-1,|UK| SKY CINEMA ACTION HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPiK0F2jEm9wOROAI7tA5zI/ts
+#EXTINF:-1,|UK| SKY CINEMA ScFi HORROR
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJaGxuA7b3G87K1xBZdaTM4/ts
+#EXTINF:-1,|UK| SKY CINEMA HITS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNScOj0Z8yF9zsEGbfKpM34/ts
+#EXTINF:-1,|UK| SKY CINEMA ANIMATION HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLEBJARF7feVEvMRxHcQ09w/ts
+#EXTINF:-1,|UK| TCM
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lB5QScVGKC_8fl4Cy06iSxA/ts
+#EXTINF:-1,|UK| FILM 4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEqdNrZbIuePAQ9oCkGXkUY/ts
+#EXTINF:-1,|UK| GREAT! MOVIES CLASSIC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIfI7oJBokNNMAYVIT-hK00/ts
+#EXTINF:-1,|UK| DRAMA CHANNEL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lE3wx4tWhDuSh6KtUJNPlO4/ts
+#EXTINF:-1,|UK| SONY CHANNEL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGBQTSqihrMPOnxt5Q65WTs/ts
+#EXTINF:-1,|UK| CBS DRAMA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lItEGpWPDoVhInn9RFn_h0U/ts
+#EXTINF:-1,|UK| LEGEND
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFo2eQG0Tm6CH6hhcf_pW58/ts
+#EXTINF:-1,|UK| SONY MOVIES ACTION
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGeyf8Eb2cDZcszPcTy-wgQ/ts
+#EXTINF:-1,|UK| SONY MOVIES ACTION +1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHWKyaOV8Akn3ZRX36TkJww/ts
+#EXTINF:-1,|UK| HORROR XTRA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAMbZZO8y13wIWKXmqEzL7M/ts
+#EXTINF:-1,|UK| TALKING PICTURES TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBSntHK0xm7eGVD6bOIexR0/ts
+#EXTINF:-1,------- UK Music -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCcX6yZzsJbXq9QT43_CU1M/ts
+#EXTINF:-1,|UK| MTV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHggd1uygjZpSaHhM1O--KE/ts
+#EXTINF:-1,|UK| MTV DANCE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDVVllIP4joS6wCheeHv0uk/ts
+#EXTINF:-1,|UK| MTV 80s
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lH5C6fJ5B6yPBdrkz15LrqI/ts
+#EXTINF:-1,|UK| MTV MUSIC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lErlMaXjtWmAzE-9FJLDoZc/ts
+#EXTINF:-1,|UK| MTV HITS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMJkiSk8GvyIRI5LzBZQXQQ/ts
+#EXTINF:-1,|UK| MTV 90s
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOoDqwQuhlVyree_vOaGG40/ts
+#EXTINF:-1,|UK| VH1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOE_-zuZJML00c9Hq_8XkwM/ts
+#EXTINF:-1,|UK| CHANNEL AKA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI2A7lIEq_4iQzqSHoYJY1w/ts
+#EXTINF:-1,|UK| E4 EXTRA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lK2s6FDWwDd5klw7PtKTd-Y/ts
+#EXTINF:-1,|UK| NOW 70s
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFywOAYs1V28XhhpC2syAMY/ts
+#EXTINF:-1,|UK| NOW 80s
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGAk-G9NKmfSLlcFv1vRAWc/ts
+#EXTINF:-1,|UK| NOW 90s
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lN3M-vz1f7U8b44um5WSvME/ts
+#EXTINF:-1,------- UK Documentaries -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCVUXl21c5tlybEB3w4lyXU/ts
+#EXTINF:-1,|UK| SKY NATURE HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lD_fo3YI9dB_5E75f271Uxw/ts
+#EXTINF:-1,|UK| SKY DOCUMENTARIES HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNN8FD_Svk3X3p6vEWg73g0/ts
+#EXTINF:-1,|UK| DISCOVERY CHANNEL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI5Buqhsll_AKQYQ2A0a_1w/ts
+#EXTINF:-1,|UK| CRIME & INVESTIGATION
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNdPZnFT3cL_DS6Ss5MOxD0/ts
+#EXTINF:-1,|UK| DISCOVERY INVESTIGATION
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGi3yQ9L_S59SubRCAcO0CI/ts
+#EXTINF:-1,|UK| NATIONAL GEOGRAPHIC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI91HL__UPWKf6au0RUhz34/ts
+#EXTINF:-1,|UK| NAT GEO WILD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNZRRuHeQrF3ao0pRntimkg/ts
+#EXTINF:-1,|UK| SKY HISTORY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFCjjYCJy5bJdXow9WcN9CQ/ts
+#EXTINF:-1,|UK| H2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFgCfVvZsk3fJyGM-gF97PI/ts
+#EXTINF:-1,|UK| DISCOVERY HISTORY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHQxbJapXy-Nklugi8B8p4k/ts
+#EXTINF:-1,|UK| DISCOVERY TURBO
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPD6lT5aqrGCVQ5x3axc5bg/ts
+#EXTINF:-1,|UK| DISCOVERY SCIENCE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFuj2pU2TcwAGQoKhYiR-r4/ts
+#EXTINF:-1,|UK| DMAX UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI3Vz80PugUyYRt9a5gNJ18/ts
+#EXTINF:-1,|UK| ANIMAL PLANET
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAh07xjVvcVGT6rAkWvLQ2c/ts
+#EXTINF:-1,|UK| CHALLENGE TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPpvpU-0eijwUPs_4tBbzcg/ts
+#EXTINF:-1,|UK| BLAZE
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKehFMupGj4D92nIbjL4GYU/ts
+#EXTINF:-1,|UK| PBS AMERICA
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDZLSuxA-bJmZ9emRPOSBjY/ts
+#EXTINF:-1,------- UK Kids -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJj9qRaNrTts-ngtxnrQwlA/ts
+#EXTINF:-1,|UK| CBEEBIES
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNljPZT1kqOmoee0oVk6h1o/ts
+#EXTINF:-1,|UK| BOOMERANG
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNK4xh2VnWgxRPrbN4WPhFs/ts
+#EXTINF:-1,|UK| NICKTOONS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJeAQskWXec5MBOn-G0up60/ts
+#EXTINF:-1,|UK| NICKELODEON
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOatO-xAAEMtjNmO9Tkw6qU/ts
+#EXTINF:-1,|UK| NICK JUNIOR
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJRS4K6nLEvdDdaxMHAI5f0/ts
+#EXTINF:-1,|UK| NICKJR.TOO
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKMCunkeDAqBbeXeuyC2h3Q/ts
+#EXTINF:-1,|UK| CARTOON NETWORK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKiqkX4zBQUUWvJo1FLStzY/ts
+#EXTINF:-1,|UK| DISNEY CHANNEL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOe8aFce0YzXQ3hEvZBcSzE/ts
+#EXTINF:-1,|UK| DISNEY XD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMPqbfJxzvUbMztYtQo6-Fw/ts
+#EXTINF:-1,|UK| BABY TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCrTQPqFTAW-J8I6TZt9BgY/ts
+#EXTINF:-1,|UK| RTE JUNIOR
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHNEgObrIG5bMmiqZJIwl28/ts
+#EXTINF:-1,|UK| POP
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBb6xUKxbIv4gH7RaYAkn50/ts
+#EXTINF:-1,|UK| TINY POP
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOjw8LgSwrFwIeG6HSaqfog/ts
+#EXTINF:-1,------- UK News -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBZwihR6ixR29TR8IyJL4ts/ts
+#EXTINF:-1,|UK| SKY NEWS HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCA7HnU86M3GhFl4gH7TYhA/ts
+#EXTINF:-1,|UK| RTE NEWS NOW
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLFE-3SLkLv-LuJMDLmGH6o/ts
+#EXTINF:-1,|UK| BBC NEWS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDgHMepXRyaRgV5Zw0i33Fg/ts
+#EXTINF:-1,|UK| GB NEWS FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHk_TPILP4iSjBmZoy1pmrk/ts
+#EXTINF:-1,|UK| TALK TV FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEmZ3cUwwzFf8gn88IzC8hc/ts
+#EXTINF:-1,|UK| EURONEWS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLBfXZdWUMVmnKu1R8vqDdg/ts
+#EXTINF:-1,|UK| FRANCE 24 ENGLISH
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMw8YKV_UBwPQTzxBMLknrQ/ts
+#EXTINF:-1,|UK| ALJAZEERA NEWS ENGLISH
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLIG0Zg2pdlwcbf9_cqghgE/ts
+#EXTINF:-1,|UK| BBC WORLD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOX6j0lL-PmsyuYhHUqUm4Q/ts
+#EXTINF:-1,|UK| CNN INTERNATIONAL
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDosiLkN5zosqWzh4DKzJU4/ts
+#EXTINF:-1,|UK| NHK WORLD HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFufiLObEdiydswkoS_Z-7U/ts
+#EXTINF:-1,------- UK Asian -------
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lL5iFZebj2sxOB2FJEl11r4/ts
+#EXTINF:-1,|UK| ZING UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNEgkm-9L6k3FoGcFVsYVpc/ts
+#EXTINF:-1,|UK| COLORS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFxyUKoLVS-dGhzndr-l3t0/ts
+#EXTINF:-1,|UK| ZEE CINEMA UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA35tNlyZyUsyjfIE7ldZ-0/ts
+#EXTINF:-1,|UK| UTSAV GOLD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDECWmgPUr3vpmxHd_XknAs/ts
+#EXTINF:-1,|UK| UTSAV PLUS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGRkdIA1U29VsQUr7h-X66Q/ts
+#EXTINF:-1,|UK| STAR BHARAT
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFZGExN5BcJK5-kGveGrBLU/ts
+#EXTINF:-1,|UK| B4U MUSIC
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNXFhp9BCzOBofNoQDyb2qQ/ts
+#EXTINF:-1,|UK| B4U MOVIES
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCWkMlNM_QK7j2ZtJJxrGwE/ts
+#EXTINF:-1,|UK| B4U PLUS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKq09riNePoxxHnjLavMx_o/ts
+#EXTINF:-1,|UK| ZEE TV UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lF7ngturbIp8DE51O1FYB-A/ts
+#EXTINF:-1,|UK| SONY TV UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDAYAyotXaZSoMdm2Z0ZmAs/ts
+#EXTINF:-1,|UK| SONY SAB
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFKrgW8beKJ7OiuNXN8Jvb8/ts
+#EXTINF:-1,|UK| SONY MAX 2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPzRK_QrnjwOFlObd_EIE_g/ts
+#EXTINF:-1,|UK| ARY DIGITAL UK
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAqcjn1Q42aSQ2ZqNNI_iOs/ts
+#EXTINF:-1,|UK| COLORS RISHTEY
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCe2R4QhgQ7wfi40MSUrRKg/ts
+#EXTINF:-1,|UK| BRIT MUSLIM
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPMYKywmzATKdSbFAStQYXg/ts
+#EXTINF:-1,|UK| CHANNELS 24
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOCv4A0Acn8Mf6iUfkxrgX8/ts
+#EXTINF:-1,|UK| ROK TV
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMQgc09NnoojmKaAdYd43dE/ts
+#EXTINF:-1,|UK| TVC NEWS
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lI50VdJFFqHnY73TNLWZzcw/ts
+#EXTINF:-1,|UK| RISHTET CINEPLEX
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNGJL2uzBfrgYt9eSCqDRqQ/ts
+#EXTINF:-1,HK: NOW Sports 4K
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGJ4dfwUuzUvsYzg4mUEd1M/ts
+#EXTINF:-1,HK: NOW Sports PL 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lD0dteIBAuzX9aUx0QLg6j0/ts
+#EXTINF:-1,HK: NOW Sports PL 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAQTjJD4UbONIswTK7kG6Ao/ts
+#EXTINF:-1,HK: NOW Sports PL 3 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEUrtvL1bldNNrEpmW8gY44/ts
+#EXTINF:-1,HK: NOW Sports PL 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPOALH_LXefwMJRRbaLuzLM/ts
+#EXTINF:-1,HK: NOW Sports PL 5 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJrRHjswYSWPMv4ZWt-zvgs/ts
+#EXTINF:-1,HK: NOW Sports PL 6 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPmt3Uy9gw2Hfc3u5tLWZHc/ts
+#EXTINF:-1,CA: DAZN 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLUEXLRzrei_dnogT4rxDOU/ts
+#EXTINF:-1,CA: DAZN 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKxp1s4N-IcX6sPrktUyElA/ts
+#EXTINF:-1,CA: DAZN 3 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBr3u6KWmbdXCfeV54Hejtw/ts
+#EXTINF:-1,CA: DAZN 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLY3698U6RhmqTnumvcnhHs/ts
+#EXTINF:-1,CA: DAZN 5 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPdX_rHeQEpa3pMh6UhC8iw/ts
+#EXTINF:-1,CA: DAZN 6 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBIb36pn_i7TL5UTE7r1Cto/ts
+#EXTINF:-1,CA: DAZN 7 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lK7vILvYHhZcQl4jyHI-miA/ts
+#EXTINF:-1,CA: DAZN 8 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lKKJLgpaHzK25phsqwqxgmw/ts
+#EXTINF:-1,AU: Optus Sport 1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lJqOoVb9n1Ty0L-GQsxMrKg/ts
+#EXTINF:-1,AU: Optus Sport 2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGhe24mWN-UveRcBR0NijuM/ts
+#EXTINF:-1,AU: Optus Sport 4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEAp2TMw5xQFzf29vLtxvs4/ts
+#EXTINF:-1,AU: Optus Sport 3
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMg5EWf9CKUn5jyAmKyKXQo/ts
+#EXTINF:-1,AU: Optus Sport 5
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNpmcKGNwjzBZEBTyvHFVak/ts
+#EXTINF:-1,AU: Optus Sport 6
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLejpVp-_D9YNK2O-uonymI/ts
+#EXTINF:-1,AU: Optus Sport 7
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEnwf03oSP032xRBQvEzirQ/ts
+#EXTINF:-1,NZ: SparkSports 1
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCOV6T7Z8pSgPqF5nbM1jRM/ts
+#EXTINF:-1,NZ: SparkSports 2
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lB9ZEmng3Afz3o_IA-PQkDs/ts
+#EXTINF:-1,NZ: SparkSports 3
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lD6wEI02EmCO4BuRqfUYSQk/ts
+#EXTINF:-1,NZ: SparkSports 4
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lDECmGW9UdSjmAWqqxQPCps/ts
+#EXTINF:-1,NZ: SparkSports 5
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLIQVXAg6tXhal7bcEU5HzY/ts
+#EXTINF:-1,NZ: SparkSports 6
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCMSR-2oIRs-M9D0ShKHdgQ/ts
+#EXTINF:-1,NZ: SparkSports 7
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lMSbzAVVXNj6oDt-UjpJB4M/ts
+#EXTINF:-1,NZ: SparkSports 8
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPgwLSEsJiy-PEuldiXUYME/ts
+#EXTINF:-1,NZ: SparkSports 9
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lCt_H2IBMrWVh75ZQdKBW2E/ts
+#EXTINF:-1,NZ: SparkSports 10
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGCul9Lnu3s3smqs02B4ubw/ts
+#EXTINF:-1,MY: Astro SuperSport 1 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNZ8j2cEeyQ4NTtGGLvc64g/ts
+#EXTINF:-1,MY: Astro SuperSport 2 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBOwrp_4hjM6TN-kYWEwOsk/ts
+#EXTINF:-1,MY: Astro SuperSport 3 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFMd912cD8Q9bfU4WALVvvo/ts
+#EXTINF:-1,MY: Astro SuperSport 4 HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lLeC54hLSug0uZ7upaqBbWU/ts
+#EXTINF:-1,ZA: SuperSport Maximo HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lO0Ya4C9BwUyCJB7USQhi8M/ts
+#EXTINF:-1,ZA: SuperSport Premier League FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHzGch_P-NEHTrqvB8k766A/ts
+#EXTINF:-1,ZA: SuperSport Blitz HD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGg-Jt4BeVCJCKvDmfWvrRI/ts
+#EXTINF:-1,ZA: SuperSport LaLiga FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lICiv7HarPs8uojf9Max1aw/ts
+#EXTINF:-1,ZA: SuperSport Football FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBNraWlazlSbLP16_dy-9SM/ts
+#EXTINF:-1,ZA: SuperSport PSL FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lBjPaGRoqbeGc9iBMKlMmIY/ts
+#EXTINF:-1,ZA: SuperSport Cricket FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lNvIc1sA5ookMc2rWXlHjdM/ts
+#EXTINF:-1,ZA: SuperSport Variety 1 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lOPzIBbhOZfgzX1QlbKX-Jw/ts
+#EXTINF:-1,ZA: SuperSport Variety 2 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lC5af3m7FJl2HmEn0Q-uKwc/ts
+#EXTINF:-1,ZA: SuperSport Variety 3 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lEU2i5mwThEtn93ZBMBKaLw/ts
+#EXTINF:-1,ZA: SuperSport Variety 4 FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHuVI2D3EEUFAMyKj9_mb2w/ts
+#EXTINF:-1,ZA: SuperSport Motorsport FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lA00mLYc56iwTIYLYLMUnL0/ts
+#EXTINF:-1,ZA: SuperSport Action FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lGKB6pB6JImH2ft2pdGnhkw/ts
+#EXTINF:-1,ZA: SuperSport Tennis FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lAyoyNSjPeHaGbeaF_F6cCs/ts
+#EXTINF:-1,ZA: SuperSport Rugby FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lFOCEJnXuSvqdP2mj_h-3R8/ts
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lD3FnQRFqKBlGd2L_RETAAE/ts
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lHMf4NiJF_ZxxvMUj-go5g4/ts
+#EXTINF:-1,CAR: RUSH FHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lPBjAXSwzYqQnkGi64_4IbE/ts
+#EXTINF:-1,My: Astro SuperSport UHD
+http://shakeiptv.com:8080/play/zRwbYfnickKE3nnZhFQ0lIRc8BAjJtJsT7NCQyvuU3o/ts
